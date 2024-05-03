@@ -1,0 +1,69 @@
+
+MCTSAgent Small Map 1 Ghost------
+Pacman emerges victorious! Score: 1150
+Pacman emerges victorious! Score: 1291
+Pacman emerges victorious! Score: 1375
+Pacman emerges victorious! Score: 1074
+Pacman emerges victorious! Score: 1054
+Pacman emerges victorious! Score: 729
+Pacman emerges victorious! Score: 1342
+Pacman emerges victorious! Score: 1009
+Pacman emerges victorious! Score: 1307
+Pacman emerges victorious! Score: 1344
+Average Score: 1167.5
+Scores:        1150.0, 1291.0, 1375.0, 1074.0, 1054.0, 729.0, 1342.0, 1009.0, 1307.0, 1344.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+
+Execution time:168.78836703300476seconds
+MCTSAgent Medium Map 1 Ghost------
+Pacman emerges victorious! Score: 1248
+Pacman emerges victorious! Score: 1519
+Pacman emerges victorious! Score: 787
+Pacman emerges victorious! Score: 1528
+Pacman emerges victorious! Score: 1584
+Pacman emerges victorious! Score: 1378
+Pacman emerges victorious! Score: 1302
+Pacman emerges victorious! Score: 1105
+Pacman emerges victorious! Score: 726
+Pacman emerges victorious! Score: 1558
+Average Score: 1273.5
+Scores:        1248.0, 1519.0, 787.0, 1528.0, 1584.0, 1378.0, 1302.0, 1105.0, 726.0, 1558.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+
+Execution time:533.3464920520782seconds
+MCTSAgent Small Map 3 Ghost------
+Pacman died! Score: 440
+Pacman emerges victorious! Score: 1500
+Pacman died! Score: 98
+Pacman emerges victorious! Score: 1237
+Pacman emerges victorious! Score: 1311
+Pacman died! Score: -8
+Pacman emerges victorious! Score: 1625
+Pacman emerges victorious! Score: 1281
+Pacman emerges victorious! Score: 1267
+Pacman emerges victorious! Score: 1462
+Average Score: 1021.3
+Scores:        440.0, 1500.0, 98.0, 1237.0, 1311.0, -8.0, 1625.0, 1281.0, 1267.0, 1462.0
+Win Rate:      7/10 (0.70)
+Record:        Loss, Win, Loss, Win, Win, Loss, Win, Win, Win, Win
+
+Execution time:180.14576888084412seconds
+MCTSAgent Medium Map 3 Ghost------
+Pacman died! Score: 262
+Pacman emerges victorious! Score: 1564
+Pacman emerges victorious! Score: 1760
+Pacman emerges victorious! Score: 1424
+Pacman emerges victorious! Score: 1502
+Pacman died! Score: 571
+Pacman emerges victorious! Score: 1533
+Pacman emerges victorious! Score: 1453
+Pacman emerges victorious! Score: 1162
+Pacman died! Score: -45
+Average Score: 1118.6
+Scores:        262.0, 1564.0, 1760.0, 1424.0, 1502.0, 571.0, 1533.0, 1453.0, 1162.0, -45.0
+Win Rate:      7/10 (0.70)
+Record:        Loss, Win, Win, Win, Win, Loss, Win, Win, Win, Loss
+
+Execution time:481.3838760852814seconds
